@@ -1,2 +1,2 @@
 # HelloWorld
-First setup of account
+First setup of github account
